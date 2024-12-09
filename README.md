@@ -4,5 +4,5 @@ Ja sam kao bazu koristio phpmyadmin lokalno, pa da biste radili sa istim podacim
 SQL kod je prilozen u ovom git repozitorijumu kao file yettel-test.sql
 
 Od dependency-ova: sam axios da bih malo olaksao posao na frontu, bcrypt kako bih sifrovao lozinke i ovi ostali su mi manje vise bili neophodni, cors da bi front mogao da pristupi backu itd.
-Takodje bih napomenuo da je react kod malo traljavo napisan, tj. na brzinu nisam odvajao po komponentama i kod moze da bude x puta kraci, molim Vam mi nemojte zameriti to.
+Takodje bih napomenuo da je react kod malo traljavo napisan, tj. na brzinu nisam odvajao po komponentama i kod moze da bude x puta kraci, molim Vas mi nemojte zameriti to.
  
